@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:productcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\updateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\updateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\updateproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\updateproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\productcard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:productcard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|c:\\users\\shahd\\source\\repos\\furniturestoreapp\\forms\\addproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE28A4-8EF8-4117-A34B-4799D2C339F2}|FurnitureStoreApp.csproj|solutionrelative:forms\\addproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "Forms\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "Forms\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:22:14.374Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:45:28.438Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\SignupForm.cs [Design]",
+              "RelativeToolTip": "Forms\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:15:26.966Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\LogInForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\LogInForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:15:18.664Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:10:23.523Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Forms\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddProduct.cs [Design]",
+              "RelativeToolTip": "Forms\\AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:49:52.137Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "Forms\\UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateProduct.cs [Design]",
+              "RelativeToolTip": "Forms\\UpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:02:47.194Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\ProductCard.cs",
+              "RelativeDocumentMoniker": "ProductCard.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\ProductCard.cs [Design]",
+              "RelativeToolTip": "ProductCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:56:56.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddUser.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddUser.cs [Design]",
+              "RelativeToolTip": "Forms\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:43:47.141Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "Forms\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateUser.cs [Design]",
+              "RelativeToolTip": "Forms\\UpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:52:02.287Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CartForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CartForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CartForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:26:43.988Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Forms\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddProduct.cs",
+              "RelativeToolTip": "Forms\\AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:10:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddUser.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddUser.cs",
+              "RelativeToolTip": "Forms\\AddUser.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:50:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\SignupForm.cs",
+              "RelativeToolTip": "Forms\\SignupForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:30:42.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\LogInForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\LogInForm.cs",
+              "RelativeToolTip": "Forms\\LogInForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:32:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AdminDashboard.cs",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAIUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:39:22.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "Forms\\UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateProduct.cs",
+              "RelativeToolTip": "Forms\\UpdateProduct.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:08:28.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "Forms\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateUser.cs",
+              "RelativeToolTip": "Forms\\UpdateUser.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:19:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CartForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CartForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CartForm.cs",
+              "RelativeToolTip": "Forms\\CartForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:38:12.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CustomerDashboard.cs",
+              "RelativeToolTip": "Forms\\CustomerDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:53:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "Forms\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\WelcomeForm.cs",
+              "RelativeToolTip": "Forms\\WelcomeForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:10:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\WelcomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "Forms\\WelcomeForm.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwDwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:59:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:14:08.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:06:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddUser.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUser.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddUser.Designer.cs",
+              "RelativeToolTip": "Forms\\AddUser.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAewMwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:29:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CartForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\CartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\CartForm.Designer.cs",
+              "RelativeToolTip": "Forms\\CartForm.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:14:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductCard.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\ProductCard.cs",
+              "RelativeDocumentMoniker": "ProductCard.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\ProductCard.cs",
+              "RelativeToolTip": "ProductCard.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:09:51.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateUser.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UpdateUser.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateUser.Designer.cs",
+              "RelativeToolTip": "Forms\\UpdateUser.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:26:35.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UpdateProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\UpdateProduct.Designer.cs",
+              "RelativeToolTip": "Forms\\UpdateProduct.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:20:43.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductCard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\ProductCard.Designer.cs",
+              "RelativeDocumentMoniker": "ProductCard.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\ProductCard.Designer.cs",
+              "RelativeToolTip": "ProductCard.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:06:08.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "Forms\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAAAJMBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:47:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:17:17.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:17:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\AddProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\shahd\\source\\repos\\FurnitureStoreApp\\Forms\\AddProduct.Designer.cs",
+              "RelativeToolTip": "Forms\\AddProduct.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAALQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:38:15.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
