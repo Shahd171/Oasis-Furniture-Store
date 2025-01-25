@@ -1,6 +1,6 @@
 # 🏨 Oasis Furniture Store
 
-Oasis Furniture Store is a desktop application designed for managing a furniture store, including user roles, products, categories, and cart functionality. Built using C# WinForms and Entity Framework, it offers separate dashboards for admins and customers.
+Oasis Furniture Store is a desktop application designed for managing a furniture store, including user roles, products, categories, Orders, and cart functionality. Built using C# WinForms and Entity Framework, it offers separate dashboards for admins and customers.
 
 ---
 
